@@ -20,3 +20,6 @@ if __name__ == "__main__":
     for line in sys.stdin:
         line = run(line)
         print line
+
+        
+        
